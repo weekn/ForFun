@@ -1,4 +1,4 @@
-<?php
+<?phpfdsfada
 namespace MyProject;
 class Car {
   var $var1;
